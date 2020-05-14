@@ -12,9 +12,9 @@
 
 插件将会驱使网页，在加载完成时自动填写答案，并滚动到提交按钮处，帮你点击它。提交完成后也会帮你自动刷新网页，以便快速进行下一轮作答
 
-![开始工作](https://cdn.jsdelivr.net/gh/superBoyJack/CDN/img/20200514184326.gif)
+![](https://github.com/superBoyJack/wenjuanxin/blob/master/img/start.gif)
 
-![切换IP](https://cdn.jsdelivr.net/gh/superBoyJack/CDN/img/20200514184418.gif)
+![](https://github.com/superBoyJack/wenjuanxin/blob/master/img/switchIP.gif)
 
 ## 依赖
 
