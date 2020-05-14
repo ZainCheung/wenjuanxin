@@ -1,0 +1,358 @@
+[
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.0",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.1",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.2",
+        "comment": "IP",
+        "enabled": true
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.3",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.4",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.5",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.6",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.7",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.8",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.9",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.10",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.11",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.12",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.13",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.14",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.15",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.16",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.17",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.18",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.19",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.20",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.21",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.22",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.23",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.24",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.25",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.26",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.27",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.28",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.29",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.30",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.31",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.32",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.33",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.34",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.35",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.36",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.37",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.38",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.39",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.40",
+        "comment": "IP",
+        "enabled": false
+    },{
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.41",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.42",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.43",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.44",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.45",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.46",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.47",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.48",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.49",
+        "comment": "IP",
+        "enabled": false
+    },
+    {
+        "action": "Add",
+        "name": "X-Forwarded-For",
+        "value": "1.0.1.50",
+        "comment": "IP",
+        "enabled": false
+    }
+]
