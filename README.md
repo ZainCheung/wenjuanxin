@@ -14,11 +14,17 @@
 
 ## 依赖
 
-问卷星对IP有提交限制,所以可以配合Chrome插件:**Modify Headers**
+问卷星对IP有提交次数限制,所以可以配合Chrome插件:**Modify Headers**
 
 下载地址也已经备好：https://chrome.google.com/webstore/detail/modify-headers-for-google/innpjfdalfhpcoinfnehdnbkglpmogdi
 
 或者使用打包版**crx**文件（备用地址）：https://zaincheung.lanzous.com/ickksuf
+
+查询IP地址段：http://ip.bczs.net/countrylist
+
+你也可以使用项目里的 modifyheaders.json 文件,并将它导入到你的**Modify Headers**,这样你就能快速开始免去IP限制
+
+快速下载地址: https://cdn.jsdelivr.net/gh/superBoyJack/wenjuanxin/modifyheaders.json
 
 ## 使用说明
 
