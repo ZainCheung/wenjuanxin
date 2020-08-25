@@ -1,14 +1,21 @@
 ## 简介
 
-自动填写问卷并提交,然后自动刷新继续填写,适用于问卷星
+这是一款自动提交问卷辅助插件，适用于问卷星：www.wjx.cn
+
+安装这款插件可以帮你做到自动填写问卷并提交,然后自动刷新继续填写,适用于问卷星刷大量问卷数据。
+# 安装
+
+安装并使用这款插件，需要你的浏览器装有油猴[Tampermonkey](https://tampermonkey.net/)插件
+
+| [正式版](https://greasyfork.org/zh-CN/scripts/403205-%E9%97%AE%E5%8D%B7%E6%98%9F%E8%87%AA%E5%8A%A8%E9%9A%8F%E6%9C%BA%E7%AD%94%E9%A2%98) | [GitHub版](https://cdn.jsdelivr.net/gh/ZainCheung/wenjuanxin/wenjuanxin.user.js) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|         在油猴上正式发布的版本, 最稳定, 更新频率较低         |         新增内容测试的地方, 更新频率高, 但功能不稳定         |
 
 ## 快速开始
 
 安装插件并保持打开状态，打开网址：https://www.wjx.cn/jq/77295530.aspx
 
-接下来你会发现，原来填写一份问卷竟是如此简单，但是你在提交几份问卷后很快会遇到页面卡住的情况。怎么回事呢？请不要慌，我们已经为你准备了解决方案，请往下看，在依赖里会有你需要的东西
-
-## 工作流程
+## 动图演示
 
 插件将会驱使网页，在加载完成时自动填写答案，并滚动到提交按钮处，帮你点击它。提交完成后也会帮你自动刷新网页，以便快速进行下一轮作答
 
@@ -16,11 +23,11 @@
 
 ![](https://github.com/superBoyJack/wenjuanxin/blob/master/img/switchIP.gif)
 
-## 依赖
+## 破解验证
 
-问卷星对IP有提交次数限制,所以可以配合Chrome插件:**Modify Headers**
+问卷星对IP有提交次数限制，在一台机器上提交达到一定次数时会出现智能验证,所以可以配合Chrome插件:**Modify Headers** 破解这一限制
 
-下载地址也已经备好：https://chrome.google.com/webstore/detail/modify-headers-for-google/innpjfdalfhpcoinfnehdnbkglpmogdi
+下载地址：https://chrome.google.com/webstore/detail/modify-headers-for-google/innpjfdalfhpcoinfnehdnbkglpmogdi
 
 或者使用打包版**crx**文件（备用地址）：https://zaincheung.lanzous.com/ickksuf
 
@@ -28,9 +35,9 @@
 
 你也可以使用项目里的 modifyheaders.json 文件,并将它导入到你的**Modify Headers**,这样你就能快速开始免去IP限制
 
-快速下载地址: https://cdn.jsdelivr.net/gh/superBoyJack/wenjuanxin/modifyheaders.json
+下载地址: https://cdn.jsdelivr.net/gh/superBoyJack/wenjuanxin/modifyheaders.json
 
-## 使用说明
+## 配置
 
 填空题随机填写自定义答案，所以安装好脚本之后，可以进入管理面板修改代码里的答案配置
 
