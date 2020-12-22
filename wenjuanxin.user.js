@@ -16,6 +16,8 @@
 // 图片
 // @author       ZainCheung
 // @include     https://www.wjx.cn/jq/*.aspx
+// @include     https://www.wjx.cn/m/*.aspx
+// @include     https://www.wjx.cn/hj/*.aspx
 // @include     https://www.wjx.cn/wjx/join/complete.aspx*
 // @grant        none
 // @namespace http://tampermonkey.net/
