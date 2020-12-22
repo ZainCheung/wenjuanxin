@@ -7,9 +7,9 @@
 
 安装并使用这款插件，需要你的浏览器装有油猴[Tampermonkey](https://tampermonkey.net/)插件
 
-| [正式版](https://greasyfork.org/zh-CN/scripts/403205-%E9%97%AE%E5%8D%B7%E6%98%9F%E8%87%AA%E5%8A%A8%E9%9A%8F%E6%9C%BA%E7%AD%94%E9%A2%98) | [GitHub版](https://cdn.jsdelivr.net/gh/ZainCheung/wenjuanxin/wenjuanxin.user.js) |
+| [GitHub版](https://greasyfork.org/zh-CN/scripts/403205-%E9%97%AE%E5%8D%B7%E6%98%9F%E8%87%AA%E5%8A%A8%E9%9A%8F%E6%9C%BA%E7%AD%94%E9%A2%98) | [油猴版](https://cdn.jsdelivr.net/gh/ZainCheung/wenjuanxin/wenjuanxin.user.js) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         在油猴上正式发布的版本, 最稳定, 更新频率较低         |         新增内容测试的地方, 更新频率高, 但功能不稳定         |
+|         在Github上正式发布的版本, 最稳定, 更新频率较低         |         新增内容测试的地方, 更新频率高, 但功能不稳定         |
 
 # 快速开始
 
@@ -19,9 +19,9 @@
 
 插件将会驱使网页，在加载完成时自动填写答案，并滚动到提交按钮处，帮你点击它。提交完成后也会帮你自动刷新网页，以便快速进行下一轮作答
 
-![](https://github.com/superBoyJack/wenjuanxin/blob/master/img/start.gif)
+![](https://cdn.jsdelivr.net/gh/ZainCheung/CDN/img/start.gif)
 
-![](https://github.com/superBoyJack/wenjuanxin/blob/master/img/switchIP.gif)
+![](https://cdn.jsdelivr.net/gh/ZainCheung/CDN/img/switchIP.gif)
 
 # 破解验证
 

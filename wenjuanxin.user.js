@@ -65,7 +65,7 @@
     //答题结束，则打开新的问卷
     (function openNew() {
         var currentURL = window.location.href;
-        var pat = /complete\.aspx\?q=(\d+)/;
+        var pat = /complete\.aspx\?activityid=(\d+)/;
         var obj = pat.exec(currentURL);
         if (obj) {
             window.location.href = "https://www.wjx.cn/jq/" + obj[1] + ".aspx";
