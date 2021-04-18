@@ -5,7 +5,7 @@
 安装这款插件可以帮你做到自动填写问卷并提交,然后自动刷新继续填写,适用于问卷星刷大量问卷数据。
 # 安装
 
-安装并使用这款插件，需要你的浏览器装有油猴[Tampermonkey](https://tampermonkey.net/)插件
+安装并使用这款插件，需要你的浏览器装有油猴[Tampermonkey](https://tampermonkey.net/)插件。
 
 | [GitHub版](https://greasyfork.org/zh-CN/scripts/403205-%E9%97%AE%E5%8D%B7%E6%98%9F%E8%87%AA%E5%8A%A8%E9%9A%8F%E6%9C%BA%E7%AD%94%E9%A2%98) | [油猴版](https://cdn.jsdelivr.net/gh/ZainCheung/wenjuanxin/wenjuanxin.user.js) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
