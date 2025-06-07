@@ -104,6 +104,13 @@ var config = [
 }
 ```
 
+## 🏢 赞助More actions
+
+感谢以下赞助商支持 本项目 的开发：
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
 # 鸣谢
 
 最后要感谢Junli提供的开源 原作者GitHub地址:https://github.com/tignioj
